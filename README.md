@@ -1,0 +1,1 @@
+The application is deployed at https://calm-rose-walkingstick-kilt.cyclic.app/
